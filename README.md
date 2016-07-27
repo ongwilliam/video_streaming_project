@@ -15,6 +15,7 @@ Configuration:
 5. Run ClientLauncher.py: 
 
 	python ClientLauncher.py a b c d
+	
 		a. hostServer - name or IP address
 		b. serverPort
 		c. rtpPort - default is 554 but set >1024
